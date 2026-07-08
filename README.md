@@ -7,4 +7,4 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=14B8A6&center=true&vCenter=true&width=435&lines=Hi+my+name+is+Nithish+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
 
-![github_gif.gif](./github_gif.gif)
+<img align="right" width="350" src="./github_gif.gif" alt="Coding GIF" >
