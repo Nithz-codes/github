@@ -6,5 +6,27 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2EA043&height=200&section=header&text=Nithish%20V&fontSize=52&fontAlignY=38&desc=Builder%20%C2%B7%20Thinker%20%C2%B7%20Gen%20AI%20Engineer&descAlignY=58&descSize=18&fontColor=ffffff&animation=fadeIn" width="100%" />   
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=14B8A6&center=true&vCenter=true&width=435&lines=Hi+my+name+is+Nithish+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
+<table>
+<tr>
+<td>
 
-<img align="right" width="350" src="./github_gif.gif" alt="Coding GIF" >
+<h2>👨‍💻 About Me</h2>
+
+I'm **Nithish**, a Computer Science student passionate about building modern web applications and continuously improving my development skills.
+
+- 💻 Currently learning and building with the **MERN Stack**
+- 🚀 Interested in Full-Stack Web Development
+- 🌱 Always exploring new technologies and best practices
+- 🛠️ Enjoy turning ideas into functional and user-friendly applications
+- 🏋️ Outside of coding, you'll usually find me at the gym or exploring the world of cars and motorcycles
+- 🎯 My goal is to become a skilled software engineer and contribute to impactful products
+
+</td>
+
+<td width="360">
+
+<img src="./github_gif.gif" width="350" alt="Coding GIF">
+
+</td>
+</tr>
+</table>
