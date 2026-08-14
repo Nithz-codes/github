@@ -28,8 +28,11 @@ I'm **Nithish**, a Computer Science student passionate about building modern web
 </td>
 <td width="40%" align="center" valign="middle">
 
+
 <img src="./github_gif.gif" width="100%" alt="Coding GIF">
 
 </td>
 </tr>
 </table>
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/NithishV43?theme=dark&font=Noto%20Sans%20Hebrew)](https://leetcode.com/u/NithishV43/)
